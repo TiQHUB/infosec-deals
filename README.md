@@ -45,11 +45,11 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 |---|---|---|---|---|
 | PortDroid Pro | Android network toolkit | $4.69 (`CYBER_2026`, Nov 5 – Dec 4) | $9.49 | [portdroid.net](https://portdroid.net/black-friday-2026/) |
 | Scanify Lifetime Pro | Link, file, QR, IP checks against 95+ engines | $14.50 (`BLACKFRIDAY` or `BFPRO`, to Dec 9) | $29 | [scanify.to](https://scanify.to/pricing?code=BFPRO) |
-| ScreenShield Lifetime Pro | Hides sensitive data while screen sharing | $29 (to Nov 30) | $49 | n/a |
-| Safe Screen Share | Blurs sensitive data before screen sharing | 40% off (`BF2026`, to Dec 2) | n/a | n/a |
+| ScreenShield Lifetime Pro | Hides sensitive data while screen sharing | $29 (to Nov 30) | $49 | [screenshield-site](https://sky-blue1111.github.io/screenshield-site/#pricing) |
+| Safe Screen Share | Blurs sensitive data before screen sharing | 40% off (`BF2026`, to Dec 2) | n/a | [safescreenshare.com](https://safescreenshare.com/pricing) |
 | pwn.guide Lifetime plan | Ethical hacking and Security+ / PenTest+ prep | 20% off (`BLKFRI20`, to Dec 5) | n/a | [pwn.guide](https://pwn.guide/pricing) |
-| SmartUsername Pro (Agency) | WordPress login-name hiding | $149 (extra 10% with `AWESOMEBF10`, to Dec 1) | $299 | n/a |
-| Paperweight Lifetime Pro | Digital footprint mapping from your inbox | $149 (to Dec 1) | $60 per year | n/a |
+| SmartUsername Pro (Agency) | WordPress login-name hiding | $149 (extra 10% with `AWESOMEBF10`, to Dec 1) | $299 | [smartusername.com](https://smartusername.com/black-friday/) |
+| Paperweight Lifetime Pro | Digital footprint mapping from your inbox | $149 (to Dec 1) | $60 per year | [paperweight.email](https://www.paperweight.email/pricing#black-friday) |
 | Exploit Pack, Control Pack, Kernel Pack | Exploit, C2, and kernel toolkits | €960 each (`LIFETIME`, Nov 19 – Nov 30) | €1,200 each | [exploitpack.com](https://www.exploitpack.com/) |
 | Iximiuz Labs | Linux, container, Kubernetes playgrounds | Discounted lifetime and annual plans (to Nov 30) | n/a | [labs.iximiuz.com](https://labs.iximiuz.com/) |
 
@@ -90,7 +90,9 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | LabEx Pro | Linux, DevOps, security labs | 30% off 1-year; 50% off 2-year | `2026BF30` / `2026BF50` | Dec 7 | [labex.io](https://labex.io/pricing) |
 | Pluralsight | Annual subscription: security, cloud, IT, software courses and labs. `COMEBACK60` is likely for returning subscribers. | About 50% off (`SAVEPS50`); about 60% off (`COMEBACK60`) | `SAVEPS50` / `COMEBACK60` | Not published | [pluralsight.com](https://www.pluralsight.com/pricing) |
 | KodeKloud | DevOps, cloud, Kubernetes courses, labs, playgrounds (annual plans) | Standard 21% off; Pro 45% + 5% bonus; AI 50% + 5% bonus | Automatic | Nov 30, 11:59 PM IST | [kodekloud.com](https://kodekloud.com/pricing) |
-| Cybr | Cybr Premium: all courses, hands-on labs, practice exams, learning paths. Price is kept while you stay subscribed. Free OWASP LLM Top 10 labs released Nov 23 – Nov 30. | Black Friday price (amount not published) | Automatic | Nov 27, 8:00 PM MT | [cybr.com](https://cybr.com/) |
+| Cybr | Cybr Premium: all courses, hands-on labs, practice exams, learning paths. Price is kept while you stay subscribed. Free OWASP LLM Top 10 labs released Nov 23 – Nov 30. | 40% off Cybr Premium, $140 per year | Automatic | Nov 27, 8:00 PM MT | [cybr.com](https://cybr.com/black-friday/) |
+| ExamPro | All courses (cloud, security and IT certification prep) | 75% off | `bf2026` | Not published | [exampro.co](https://www.exampro.co/) |
+| Master.dev | Courses | Discount not published | `reconnect2026` | Not published | [master.dev](https://master.dev/) |
 | HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR. Trackers also report 20% off courses and 15% off labs and exams (not on vendor site). | Automatic | Nov 30 (unconfirmed) | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
 | VantagePoint | Hacking labs and certifications | 70% off | Automatic | Dec 15 | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com/) |
 | RedTeamLeaders | Hacking labs and certifications, prices in BRL | 50% off | `BLACKFRIDAY50` | Not published | [courses.redteamleaders.com](https://courses.redteamleaders.com/catalog) |
@@ -98,7 +100,7 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | TheXero Training Academy | Wireless Operator (Wi-Fi pentesting) | $599 to $197 (67% off) | Automatic | Dec 1 | [training.thexero.co.uk](https://training.thexero.co.uk/blackfriday) |
 | pwn.guide | Ethical hacking, Security+ and PenTest+ prep | 20% off all plans, including lifetime | `BLKFRI20` | Dec 5 | [pwn.guide](https://pwn.guide/pricing) |
 | Wireshark Labs | WCA labs $199.99 to $99.99; Ranger Lab $249.99 to $179.99 | 50% off WCA | `PACKETFRIDAY` | Dec 1 | [wiresharklabs.org](https://wiresharklabs.org/) |
-| Practical Android App Security Testing | Self-paced Android app and API testing | $999 launch price, rising to $1,499 on Dec 5 | None | Dec 4 | n/a |
+| Practical Android App Security Testing | Self-paced Android app and API testing | $999 launch price, rising to $1,499 on Dec 5 | None | Dec 4 | [coldedgetrainings.com](https://www.coldedgetrainings.com/practical-android-app-security-testing) |
 | AppSec.training | AppSec, DevSecOps, secure SDLC | 50% off | `blackfriday` | Dec 31 | [appsec.training](https://appsec.training) |
 | OnlySecurity | KSEC courses, Plus or Max membership, All Access pass | 15% off | Automatic | Nov 23 – Nov 30 | [onlysecurity.com](https://onlysecurity.com/black-friday/) |
 | Practical TLS (unconfirmed) | SSL/TLS deep dive | $297 to $50 | `BF2026TLS` | Dec 6 | [classes.pracnet.net](https://classes.pracnet.net/courses/practical-tls) |
@@ -125,22 +127,22 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 
 | Tool | Category | Current price | 2026 offer |
 |---|---|---|---|
-| Nessus Professional | Vulnerability scanning | $3,990 per year | None found |
-| Burp Suite Professional | Web application testing | $499 per user per year | None found |
-| Caido | Web application testing | Freemium, paid plans on pricing page | None found |
-| Burp Bounty Pro | Burp Suite extension | Not listed | 40% off first year, `BLACKFRIDAY26`, to Dec 3 |
-| Pulsedive Pro | Threat intelligence | About $29 per month | None found |
-| IDA Pro (Hex-Rays) | Reverse engineering | Not listed | None found |
-| Binary Ninja | Reverse engineering | Not listed | None found |
-| Shodan | Internet scanning | $49 lifetime membership | None announced |
+| [Nessus Professional](https://www.tenable.com/products/nessus/nessus-professional) | Vulnerability scanning | $3,990 per year | None found |
+| [Burp Suite Professional](https://portswigger.net/buy/pro) | Web application testing | $499 per user per year | None found |
+| [Caido](https://caido.io/pricing) | Web application testing | Freemium, paid plans on pricing page | None found |
+| [Burp Bounty Pro](https://bountysecurity.ai/products/burp-bounty) | Burp Suite extension | Not listed | 40% off first year, `BLACKFRIDAY26`, to Dec 3 |
+| [Pulsedive Pro](https://pulsedive.com/about/pro) | Threat intelligence | About $29 per month | None found |
+| [IDA Pro (Hex-Rays)](https://hex-rays.com/pricing) | Reverse engineering | Not listed | None found |
+| [Binary Ninja](https://binary.ninja/purchase/) | Reverse engineering | Not listed | None found |
+| [Shodan](https://www.shodan.io/store/member) | Internet scanning | $49 lifetime membership | None announced |
 
 ### Web application testing
 
 | Tool | Offer | Code | Dates |
 |---|---|---|---|
-| AppSecD | 30% off all paid plans (SAST, DAST, SCA, secrets, IaC, container, API). Starter $20 to $14 per month, Team $50 to $35, Premium $200 to $140, Scale $500 to $350. | None | Nov 20 – Dec 1 |
-| Vibe App Scanner | 60% off the first month of Go or Pro. New subscriptions only. | None | Nov 10 – Nov 30 |
-| Vulnsy | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 |
+| [AppSecD](https://dedsecops.com/pricing) | 30% off all paid plans (SAST, DAST, SCA, secrets, IaC, container, API). Starter $20 to $14 per month, Team $50 to $35, Premium $200 to $140, Scale $500 to $350. | None | Nov 20 – Dec 1 |
+| [Vibe App Scanner](https://vibeappscanner.com/black-friday) | 60% off the first month of Go or Pro. New subscriptions only. | None | Nov 10 – Nov 30 |
+| [Vulnsy](https://vulnsy.com/pricing) | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 |
 | [Burp Bounty Pro](https://bountysecurity.ai/products/burp-bounty) | 40% off first year of yearly plan. Needs Burp Suite Pro. | `BLACKFRIDAY26` | Dec 3 |
 | [Burp Bounty Server](https://bountysecurity.ai/pages/burp-bounty-server) | 40% off first year of yearly plan | `BLACKFRIDAY26` | Dec 3 |
 | [Akev](https://akev.dev/pricing) | HTTP(S) debugging proxy. Pro one-time licence $49 to $34.30. | `BLACKFRIDAY` | Dec 6 |
@@ -149,56 +151,56 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 
 | Tool | Offer | Code | Dates |
 |---|---|---|---|
-| Scanify | Lifetime Pro $29 to $14.50, or Pro monthly for 3 months $20 to $10 | `BLACKFRIDAY` or `BFPRO` | Nov 10 – Dec 9 |
-| AdverseMonitor | 40%–60% off first year of any yearly plan (MSSP plans from $234) | None | Nov 30 |
-| OffSeq Threat Radar | 50% off first month or first year | None | Nov 13 – Dec 1 |
-| OffSeq Breach | 50% off first billing period | `BLACK` | Nov 13 – Dec 2 |
-| OffSeq Mirage | 50% off first 3 months | `BFCM2026` | Nov 13 – Nov 30 |
-| Guard by OffSeq | 50% off full report and first month of monitoring | None | Nov 13 – Dec 1 |
-| OffSeq Pulse | 50% off first year or first month | None | Nov 13 – Dec 2 |
-| Noviscan | 30-day free Premium trial, then €9.90 per month | `BLACKFRIDAY26` | Nov 23 – Nov 30 |
+| [Scanify](https://scanify.to/pricing#lifetime) | Lifetime Pro $29 to $14.50, or Pro monthly for 3 months $20 to $10 | `BLACKFRIDAY` or `BFPRO` | Nov 10 – Dec 9 |
+| [AdverseMonitor](https://adversemonitor.com/black-friday) | 40%–60% off first year of any yearly plan (MSSP plans from $234) | None | Nov 30 |
+| [OffSeq Threat Radar](https://radar.offseq.com/pricing) | 50% off first month or first year | None | Nov 13 – Dec 1 |
+| [OffSeq Breach](https://breach.offseq.com/) | 50% off first billing period | `BLACK` | Nov 13 – Dec 2 |
+| [OffSeq Mirage](https://mirage.offseq.com/pricing) | 50% off first 3 months | `BFCM2026` | Nov 13 – Nov 30 |
+| [Guard by OffSeq](https://guard.report/) | 50% off full report and first month of monitoring | None | Nov 13 – Dec 1 |
+| [OffSeq Pulse](https://pulse.offseq.com/pricing) | 50% off first year or first month | None | Nov 13 – Dec 2 |
+| [Noviscan](https://noviscan.app/pricing/) | 30-day free Premium trial, then €9.90 per month | `BLACKFRIDAY26` | Nov 23 – Nov 30 |
 | [S4E](https://s4e.io/black-friday) | Attack surface monitoring. 60% off first year of Pro, $1,428 to $571.20 (new annual subscriptions). | `BLACKFRIDAY2026` | Dec 1 |
 
 ### Exploitation and red team frameworks
 
 | Tool | Offer | Code | Dates | Caution |
 |---|---|---|---|---|
-| Exploit Pack | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Vendor does not publish pricing. A June 2026 customer review reports a dispute over lifetime terms and an identity check. |
-| Control Pack | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Same vendor. Confirm sales terms before buying. |
-| Kernel Pack | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Same vendor. Confirm sales terms before buying. |
+| [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Vendor does not publish pricing. A June 2026 customer review reports a dispute over lifetime terms and an identity check. |
+| [Control Pack](https://www.exploitpack.com/products/control-pack) | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Same vendor. Confirm sales terms before buying. |
+| [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | 20% off lifetime licence, €1,200 to €960 | `LIFETIME` | Nov 19 – Nov 30 | Same vendor. Confirm sales terms before buying. |
 
 ### Network and mobile tools
 
 | Tool | Offer | Code | Dates |
 |---|---|---|---|
-| PortDroid | Pro lifetime $9.49 to $4.69 | `CYBER_2026` | Nov 5 – Dec 4 |
+| [PortDroid](https://portdroid.net/black-friday-2026/) | Pro lifetime $9.49 to $4.69 | `CYBER_2026` | Nov 5 – Dec 4 |
 
 ### Security and privacy tools
 
 | Tool | What it does | Offer | Code | Dates |
 |---|---|---|---|---|
-| anon.li | Email aliases, encrypted file sharing | 40% off paid plans for 12 months | `BLKFRI40` | Nov 2 – Dec 6 |
-| SimpleumSafe | Encrypted safe for photos and documents | 30% off | None | Nov 16 – Dec 6 |
-| SSOJet | B2B single sign-on | 20% off Business ($79 to $63.20 per connection per month) | `BF2026` | Nov 11 – Dec 15 |
-| MojoAuth | Passwordless login | 20% off Business Pro ($150 to $120 per month) | `BF2026` | Nov 11 – Dec 15 |
-| SmartUsername Pro | WordPress login-name hiding | 60% off yearly plans; Agency lifetime $299 to $149 | `AWESOMEBF10` (extra 10%) | Nov 11 – Dec 1 |
-| Safe Screen Share | Screen-share data blurring | 40% off lifetime licence | `BF2026` | Nov 12 – Dec 2 |
-| ScreenShield | Screen-share data hiding | 41% off lifetime Pro ($49 to $29) | None | Oct 22 – Nov 30 |
-| Zero-Trace Ship Kit | Git hooks that block secrets in commits | 40% off Solo licence | `FOUNDER10` | Nov 14 – Nov 30 |
-| Leave Me Alone | Email unsubscribe tool | Unlimited $59 per year | None | Nov 16 – Dec 8 |
-| Paperweight | Digital footprint mapping | Lifetime Pro $149 | None | Nov 16 – Dec 1 |
-| 1Password | Password manager | 50% off Individual annual ($2.99 per month, first year) | None | Nov 30 |
-| Keeper Security | Password manager | 40% off personal plans (not business) | None | Dec 1 |
-| NordPass | Password manager | Up to 58% off 2-year plans plus 3 months; Premium $1.39 per month | None | Not published |
-| Proton Mail | Encrypted email | 50% off Mail Plus or Unlimited, first year | None | Nov 30 |
-| Proton Pass | Password manager | 60% off Pass Plus ($1.99 per month) | None | Nov 30 |
-| Proton Drive | Encrypted cloud storage | 60% off Drive Plus, first year | None | Nov 30 |
-| Tuta | Encrypted email | Extra 12 months free on Revolutionary or Legend | None | Nov 30 |
-| NordVPN | VPN | Up to 78% off 2-year plans plus 3 months (from about $2.99–$3.49 per month) | None | Dec 9 |
-| Incogni | Data broker removal | 58% off annual plans | `BFCM26` | Dec 4 |
-| DeleteMe | Data broker removal | 20% off privacy plans, new members | `BFCM2026` | Nov 30 |
-| EnigmaIS myOwnCA | Self-hosted PKI | 80% off Starter Pack | `BLACK-FRIDAY-2026-STARTER-80` | Nov 22 – Dec 2 |
-| Yubico | Hardware security keys | 15% off when you mix and match up to four keys | None | Nov 19 – Nov 30 |
+| [anon.li](https://anon.li/pricing) | Email aliases, encrypted file sharing | 40% off paid plans for 12 months | `BLKFRI40` | Nov 2 – Dec 6 |
+| [SimpleumSafe](https://simpleum.com/en/safe/buy/) | Encrypted safe for photos and documents | 30% off | None | Nov 16 – Dec 6 |
+| [SSOJet](https://ssojet.com/pricing/) | B2B single sign-on | 20% off Business ($79 to $63.20 per connection per month) | `BF2026` | Nov 11 – Dec 15 |
+| [MojoAuth](https://mojoauth.com/pricing) | Passwordless login | 20% off Business Pro ($150 to $120 per month) | `BF2026` | Nov 11 – Dec 15 |
+| [SmartUsername Pro](https://smartusername.com/black-friday/) | WordPress login-name hiding | 60% off yearly plans; Agency lifetime $299 to $149 | `AWESOMEBF10` (extra 10%) | Nov 11 – Dec 1 |
+| [Safe Screen Share](https://safescreenshare.com/pricing) | Screen-share data blurring | 40% off lifetime licence | `BF2026` | Nov 12 – Dec 2 |
+| [ScreenShield](https://sky-blue1111.github.io/screenshield-site/#pricing) | Screen-share data hiding | 41% off lifetime Pro ($49 to $29) | None | Oct 22 – Nov 30 |
+| [Zero-Trace Ship Kit](https://zero-trace-ship-kit.zeus-lab-global.workers.dev/) | Git hooks that block secrets in commits | 40% off Solo licence | `FOUNDER10` | Nov 14 – Nov 30 |
+| [Leave Me Alone](https://leavemealone.com/pricing) | Email unsubscribe tool | Unlimited $59 per year | None | Nov 16 – Dec 8 |
+| [Paperweight](https://www.paperweight.email/pricing#black-friday) | Digital footprint mapping | Lifetime Pro $149 | None | Nov 16 – Dec 1 |
+| [1Password](https://1password.com/promo/individual-family/holiday-sale) | Password manager | 50% off Individual annual ($2.99 per month, first year) | None | Nov 30 |
+| [Keeper Security](https://www.keepersecurity.com/pricing/personal-and-family.html) | Password manager | 40% off personal plans (not business) | None | Dec 1 |
+| [NordPass](https://nordpass.com/black-friday/) | Password manager | Up to 58% off 2-year plans plus 3 months; Premium $1.39 per month | None | Not published |
+| [Proton Mail](https://proton.me/mail/black-friday) | Encrypted email | 50% off Mail Plus or Unlimited, first year | None | Nov 30 |
+| [Proton Pass](https://proton.me/pass/black-friday) | Password manager | 60% off Pass Plus ($1.99 per month) | None | Nov 30 |
+| [Proton Drive](https://proton.me/drive/black-friday) | Encrypted cloud storage | 60% off Drive Plus, first year | None | Nov 30 |
+| [Tuta](https://tuta.com/black-friday) | Encrypted email | Extra 12 months free on Revolutionary or Legend | None | Nov 30 |
+| [NordVPN](https://nordvpn.com/black-friday/) | VPN | Up to 78% off 2-year plans plus 3 months (from about $2.99–$3.49 per month) | None | Dec 9 |
+| [Incogni](https://incogni.com/) | Data broker removal | 58% off annual plans | `BFCM26` | Dec 4 |
+| [DeleteMe](https://joindeleteme.com/pricing/) | Data broker removal | 20% off privacy plans, new members | `BFCM2026` | Nov 30 |
+| [EnigmaIS myOwnCA](https://myownca.com/) | Self-hosted PKI | 80% off Starter Pack | `BLACK-FRIDAY-2026-STARTER-80` | Nov 22 – Dec 2 |
+| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) | Hardware security keys | 15% off when you mix and match up to four keys | None | Nov 19 – Nov 30 |
 
 ## Hardware and home lab
 
@@ -228,11 +230,11 @@ No 2026 offer announced yet as of Nov 23. Coupon-aggregator codes for these vend
 
 | Vendor | 2025 offer |
 |---|---|
-| Hack The Box | 25% off Pro Labs annual until Nov 30, then 25% off Academy Silver and Gold annual in December |
-| TryHackMe | 40% off annual with `BLACKFRIDAY40`. For 2026, only the free Advent of Cyber event (Dec 1 – Dec 24) is announced. |
-| Altered Security | 20%–25% off courses and bootcamps, 25% off multi-course purchases (Nov 17 – Dec 17, 2025) |
-| LetsDefend | 50% off annual with `BLCKFRDY`. Annual plans reportedly stopped selling on Oct 15, 2026 after the Hack The Box acquisition. |
-| Shodan | $5 lifetime membership sale each year |
+| [Hack The Box](https://www.hackthebox.com/) | 25% off Pro Labs annual until Nov 30, then 25% off Academy Silver and Gold annual in December |
+| [TryHackMe](https://tryhackme.com/pricing) | 40% off annual with `BLACKFRIDAY40`. For 2026, only the free Advent of Cyber event (Dec 1 – Dec 24) is announced. |
+| [Altered Security](https://www.alteredsecurity.com/online-labs) | 20%–25% off courses and bootcamps, 25% off multi-course purchases (Nov 17 – Dec 17, 2025) |
+| [LetsDefend](https://app.letsdefend.io/pricing) | 50% off annual with `BLCKFRDY`. Annual plans reportedly stopped selling on Oct 15, 2026 after the Hack The Box acquisition. |
+| [Shodan](https://www.shodan.io/store/member) | $5 lifetime membership sale each year |
 | CompTIA, SANS training, EC-Council, ISACA, PortSwigger | No 2026 offer announced |
 
 ## Deal trackers
