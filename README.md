@@ -7,12 +7,13 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Date | What happens |
 |---|---|
 | Nov 20 | INE sale starts |
-| Nov 23 | OnlySecurity, KSEC Labs, Hexordia, Cybr start |
+| Nov 23 | OnlySecurity, KSEC Labs, Hexordia, Cybr, Altered Security start |
 | Nov 24 | GIAC sale reported to start |
 | Nov 27 | White Knight Labs and Centri start. Cybr ends 8:00 PM MT. |
 | Nov 30 | Cyber Monday. CSA 24-hour 50% sale. Most deals below end. |
 | Dec 1 | INE, ISC2, GIAC end |
 | Dec 4 | Centri and 8kSec end |
+| Dec 6 | Altered Security ends |
 | Dec 7 | Hexordia, Invictus IR, CloudBreach end |
 | Jan 4, 2027 | OffSec Learn One discount ends |
 
@@ -93,6 +94,7 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Cybr | Cybr Premium: all courses, hands-on labs, practice exams, learning paths. Price is kept while you stay subscribed. Free OWASP LLM Top 10 labs released Nov 23 – Nov 30. | 40% off Cybr Premium, $140 per year | Automatic | Nov 27, 8:00 PM MT | [cybr.com](https://cybr.com/black-friday/) |
 | ExamPro | All courses (cloud, security and IT certification prep) | 75% off | `bf2026` | Not published | [exampro.co](https://www.exampro.co/) |
 | Master.dev | Courses | Discount not published | `reconnect2026` | Not published | [master.dev](https://master.dev/) |
+| Altered Security | All courses and bootcamps. Use within 6 months of purchase. | 20% off; extra 5% off 2 or more items | Automatic | Nov 23 – Dec 6 | [alteredsecurity.com](https://www.alteredsecurity.com/online-labs) |
 | HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR. Trackers also report 20% off courses and 15% off labs and exams (not on vendor site). | Automatic | Nov 30 (unconfirmed) | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
 | VantagePoint | Hacking labs and certifications | 70% off | Automatic | Dec 15 | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com/) |
 | RedTeamLeaders | Hacking labs and certifications, prices in BRL | 50% off | `BLACKFRIDAY50` | Not published | [courses.redteamleaders.com](https://courses.redteamleaders.com/catalog) |
@@ -232,7 +234,6 @@ No 2026 offer announced yet as of Nov 23. Coupon-aggregator codes for these vend
 |---|---|
 | [Hack The Box](https://www.hackthebox.com/) | 25% off Pro Labs annual until Nov 30, then 25% off Academy Silver and Gold annual in December |
 | [TryHackMe](https://tryhackme.com/pricing) | 40% off annual with `BLACKFRIDAY40`. For 2026, only the free Advent of Cyber event (Dec 1 – Dec 24) is announced. |
-| [Altered Security](https://www.alteredsecurity.com/online-labs) | 20%–25% off courses and bootcamps, 25% off multi-course purchases (Nov 17 – Dec 17, 2025) |
 | [LetsDefend](https://app.letsdefend.io/pricing) | 50% off annual with `BLCKFRDY`. Annual plans reportedly stopped selling on Oct 15, 2026 after the Hack The Box acquisition. |
 | [Shodan](https://www.shodan.io/store/member) | $5 lifetime membership sale each year |
 | CompTIA, SANS training, EC-Council, ISACA, PortSwigger | No 2026 offer announced |
