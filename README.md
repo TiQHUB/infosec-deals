@@ -1,15 +1,19 @@
 # Black Friday and Cyber Monday 2026: Security Deals
 
-Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 2026.
+Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 2026.
 
 ## Key dates
 
 | Date | What happens |
 |---|---|
-| Nov 20 | INE sale reported to start (terms not posted) |
+| Nov 20 | INE sale starts |
 | Nov 23 | OnlySecurity, KSEC Labs, Hexordia start |
-| Nov 27 | White Knight Labs starts |
+| Nov 24 | GIAC sale reported to start |
+| Nov 27 | White Knight Labs and Centri start |
 | Nov 30 | Cyber Monday. CSA 24-hour 50% sale. Most deals below end. |
+| Dec 1 | INE, ISC2, GIAC end |
+| Dec 4 | Centri and 8kSec end |
+| Dec 7 | Hexordia, Invictus IR, CloudBreach end |
 | Jan 4, 2027 | OffSec Learn One discount ends |
 
 ## Top deals
@@ -60,7 +64,20 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | TrainSec | 44 pre-recorded courses | 40% off | `BF2026` | Nov 30 | [trainsec.net](https://trainsec.net/cybersecurity-courses-black-friday-2026/) |
 | The SecOps Group | CAPen, CNPen, C-APIPen exam vouchers | 90% off ($330 to $33; $528 to $53) | `BF-90` | Not published | [pentestingexams.com](https://pentestingexams.com/offer) |
 | White Knight Labs | ARTOC, ODPC, OAOTC, ELPT, 6/12-month Academy | 50% off | `WKLBLACKFRIDAY26` | Dec 18 | [whiteknightlabs.com](https://training.whiteknightlabs.com/) |
-| INE Security (unconfirmed) | eJPT, eCPPT, eWPT | Reported 50% off | Unknown | Reported start Nov 20 | [ine.com/security](https://ine.com/security) |
+| INE Security | Premium annual $799 to $499; Premium + Skill Dive $649; Fundamentals $229; $101 off eJPT; $151 off other exam vouchers (ICCA excluded) | Up to $449 off | Automatic | Nov 20 – Dec 1 | [learn.ine.com](https://learn.ine.com/2026-black-friday-promotions) |
+| Centri (formerly Security Blue Team) | BTL2 and CSOM 40% off; CDEA 20% off; BTL1 and CPTA 10% off; bundle £699 | Up to 40% off | Automatic | Nov 27 – Dec 4 | [centri.org](https://centri.org/black-friday) |
+| Zero-Point Security (unconfirmed) | CRTO, CRTL and other courses | 40% off | Automatic | Nov 30 | [zeropointsecurity.co.uk](https://www.zeropointsecurity.co.uk/courses) |
+| SEKTOR7 | Malware development and offensive courses (MDE $249 to $149) | Up to 40% off | Automatic | Not published | [sektor7.institute](https://sektor7.institute/) |
+| 8kSec Academy | Mobile and AI security courses (CAISR, CMSE, OMSE, CISR, CASR) | 15% off | `8KSECBLACKFRIDAY` | Dec 4 (one source says Nov 30) | [academy.8ksec.io](https://academy.8ksec.io/) |
+| 7ASecurity (unconfirmed) | Self-paced courses | 50% off | `BFCM50` | Nov 17 – Dec 10 | [7asecurity.com](https://7asecurity.com/) |
+| ISC2 | Courses, Express Courses, certificates. Training only, not exam vouchers. | 10% off (members 20%) | Applied in cart | Dec 1 | [isc2.org](https://www.isc2.org/training/black-friday-cyber-week-sale) |
+| GIAC (unconfirmed) | Select GIAC products. SANS training not included. | 30% off | Automatic | Nov 24 – Dec 1 | [giac.org](https://www.giac.org/) |
+| Linux Foundation (unconfirmed) | CKA, CKAD, CKS, KCNA, KCSA, Kubestronaut bundles | 40% off; bundles up to 47% off | `40KUBE26CT` | Not published | [training.linuxfoundation.org](https://training.linuxfoundation.org/) |
+| SecurityPaths Academy | Certified WiFiChallenge Pro (CWP), Certified Recon Pro (CRP) | 25% off | `blackfriday26` | Nov 30 | [academy.securitypaths.com](https://academy.securitypaths.com/courses) |
+| Invictus Incident Response | Cloud IR academy, Standard and Advanced plans (first invoice) | 20% off | `BLACKFRIDAY26` | Dec 7 | [invictus-ir.com](https://www.invictus-ir.com/academy/plans) |
+| Invoke RE | Malware analysis and reverse engineering courses | 20% off | Automatic | Dec 1 | [training.invokere.com](https://training.invokere.com/pricing) |
+| CloudBreach | Breaching Azure (from $349), Breaching AWS (from $419), all plans | 30% off | `BlackFriday26` | Dec 7 | [cloudbreach.io](https://cloudbreach.io/blackfriday) |
+| GenAI Security Lab | AI security labs. Yearly $228 to $136.80; 4-Month Pass $99 to $59.40. | 40% off | Automatic (or `BLACKFRIDAY40`) | Nov 30 | [genaisecuritylab.com](https://genaisecuritylab.com/pricing) |
 | CyberWarFare Labs | Cyber Infinity yearly or monthly (CRTA, AI-RTA) | Yearly $99 to $49; monthly $9 to $5 | `INFINITY49` / `INFINITY5` | Not published | [cyberwarfare.live](https://cyberwarfare.live/cwl-cyber-infinity) |
 | CyberWarFare Labs | Red, blue, cloud, AI bundles | Up to 91% off; most courses $9 | Automatic | Not published | [cyberwarfare.live](https://cyberwarfare.live/bundles) |
 | Blue Cape Security | HERO incident-response bundle | $2,197 to $1,497 | Automatic | Nov 30 | [bluecapesecurity.com](https://bluecapesecurity.com/training-tracks/) |
@@ -68,10 +85,12 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | TCM Security | Certifications, paths, live training, Academy | 20% off; 50% off first Academy payment | Automatic | Nov 30 | [tcm-sec.com](https://tcm-sec.com/) |
 | MalDev Academy | Malware development and evasion | 25% off | `BLKFRIDAY25` | Nov 30 | [maldevacademy.com](https://maldevacademy.com/) |
 | Hexordia | On-demand and virtual live classes, vouchers | 35% off | `26BF35` | Dec 7 | [learn.hexordia.com](https://learn.hexordia.com/s/store) |
-| Blu Raven Academy | KQL, threat hunting, detection engineering | Up to 40% off | `BFCM25` | Nov 30 | [academy.bluraven.io](https://academy.bluraven.io/black-friday-2026) |
+| Blu Raven Academy | KQL, threat hunting, detection engineering | Up to 40% off | `BFCM25` (one tracker says no code needed) | Nov 30 | [academy.bluraven.io](https://academy.bluraven.io/black-friday-2026) |
 | Red Team LLC | Physical entry, RFID, social engineering, recon | $99 per course (list $199–$399); all 10 for $799 | Automatic | Nov 30 | [redteam.vip](https://redteam.vip) |
 | LabEx Pro | Linux, DevOps, security labs | 30% off 1-year; 50% off 2-year | `2026BF30` / `2026BF50` | Dec 7 | [labex.io](https://labex.io/pricing) |
-| HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR | Automatic | Not published | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
+| Pluralsight | Annual subscription: security, cloud, IT, software courses and labs. `COMEBACK60` is likely for returning subscribers. | About 50% off (`SAVEPS50`); about 60% off (`COMEBACK60`) | `SAVEPS50` / `COMEBACK60` | Not published | [pluralsight.com](https://www.pluralsight.com/pricing) |
+| KodeKloud | DevOps, cloud, Kubernetes courses, labs, playgrounds (annual plans) | Standard 21% off; Pro 45% + 5% bonus; AI 50% + 5% bonus | Automatic | Nov 30, 11:59 PM IST | [kodekloud.com](https://kodekloud.com/pricing) |
+| HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR. Trackers also report 20% off courses and 15% off labs and exams (not on vendor site). | Automatic | Nov 30 (unconfirmed) | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
 | VantagePoint | Hacking labs and certifications | 70% off | Automatic | Dec 15 | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com/) |
 | RedTeamLeaders | Hacking labs and certifications, prices in BRL | 50% off | `BLACKFRIDAY50` | Not published | [courses.redteamleaders.com](https://courses.redteamleaders.com/catalog) |
 | Just Hacking Training | Courses, paths, CTFs | 25% off | `BFF25` | Nov 30 | [justhacking.com](https://www.justhacking.com/deals/) |
@@ -82,7 +101,7 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | AppSec.training | AppSec, DevSecOps, secure SDLC | 50% off | `blackfriday` | Dec 31 | [appsec.training](https://appsec.training) |
 | OnlySecurity | KSEC courses, Plus or Max membership, All Access pass | 15% off | Automatic | Nov 23 – Nov 30 | [onlysecurity.com](https://onlysecurity.com/black-friday/) |
 | Practical TLS (unconfirmed) | SSL/TLS deep dive | $297 to $50 | `BF2026TLS` | Dec 6 | [classes.pracnet.net](https://classes.pracnet.net/courses/practical-tls) |
-| Modern Security (unconfirmed) | AI security certification | 20% off | `msec-bf20` | Dec 10 | [modernsecurity.io](https://www.modernsecurity.io/courses/ai-security-certification) |
+| Modern Security (unconfirmed) | AI security certification (MSec-CAIS) | 20% off | `msec-blackfriday20` or `msec-bf20` | Nov 30 or Dec 10 (sources differ) | [modernsecurity.io](https://www.modernsecurity.io/courses/ai-security-certification) |
 
 ### Practical DevSecOps prices
 
@@ -108,7 +127,7 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Nessus Professional | Vulnerability scanning | $3,990 per year | None found |
 | Burp Suite Professional | Web application testing | $499 per user per year | None found |
 | Caido | Web application testing | Freemium, paid plans on pricing page | None found |
-| Burp Bounty Pro | Burp Suite extension | Not listed | None found |
+| Burp Bounty Pro | Burp Suite extension | Not listed | 40% off first year, `BLACKFRIDAY26`, to Dec 3 |
 | Pulsedive Pro | Threat intelligence | About $29 per month | None found |
 | IDA Pro (Hex-Rays) | Reverse engineering | Not listed | None found |
 | Binary Ninja | Reverse engineering | Not listed | None found |
@@ -121,6 +140,9 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | AppSecD | 30% off all paid plans (SAST, DAST, SCA, secrets, IaC, container, API). Starter $20 to $14 per month, Team $50 to $35, Premium $200 to $140, Scale $500 to $350. | None | Nov 20 – Dec 1 |
 | Vibe App Scanner | 60% off the first month of Go or Pro. New subscriptions only. | None | Nov 10 – Nov 30 |
 | Vulnsy | 50% off Pro for 6 months | `BLACKFRIDAY` | Dec 31 |
+| [Burp Bounty Pro](https://bountysecurity.ai/products/burp-bounty) | 40% off first year of yearly plan. Needs Burp Suite Pro. | `BLACKFRIDAY26` | Dec 3 |
+| [Burp Bounty Server](https://bountysecurity.ai/pages/burp-bounty-server) | 40% off first year of yearly plan | `BLACKFRIDAY26` | Dec 3 |
+| [Akev](https://akev.dev/pricing) | HTTP(S) debugging proxy. Pro one-time licence $49 to $34.30. | `BLACKFRIDAY` | Dec 6 |
 
 ### Vulnerability scanning, threat intelligence, and OSINT
 
@@ -134,6 +156,7 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Guard by OffSeq | 50% off full report and first month of monitoring | None | Nov 13 – Dec 1 |
 | OffSeq Pulse | 50% off first year or first month | None | Nov 13 – Dec 2 |
 | Noviscan | 30-day free Premium trial, then €9.90 per month | `BLACKFRIDAY26` | Nov 23 – Nov 30 |
+| [S4E](https://s4e.io/black-friday) | Attack surface monitoring. 60% off first year of Pro, $1,428 to $571.20 (new annual subscriptions). | `BLACKFRIDAY2026` | Dec 1 |
 
 ### Exploitation and red team frameworks
 
@@ -164,8 +187,17 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Leave Me Alone | Email unsubscribe tool | Unlimited $59 per year | None | Nov 16 – Dec 8 |
 | Paperweight | Digital footprint mapping | Lifetime Pro $149 | None | Nov 16 – Dec 1 |
 | 1Password | Password manager | 50% off Individual annual ($2.99 per month, first year) | None | Nov 30 |
-| Proton Mail | Encrypted email | 50% off annual | None | Nov 30 |
-| Yubico | Hardware security keys | Sale page live | n/a | Nov 19 – Nov 30 |
+| Keeper Security | Password manager | 40% off personal plans (not business) | None | Dec 1 |
+| NordPass | Password manager | Up to 58% off 2-year plans plus 3 months; Premium $1.39 per month | None | Not published |
+| Proton Mail | Encrypted email | 50% off Mail Plus or Unlimited, first year | None | Nov 30 |
+| Proton Pass | Password manager | 60% off Pass Plus ($1.99 per month) | None | Nov 30 |
+| Proton Drive | Encrypted cloud storage | 60% off Drive Plus, first year | None | Nov 30 |
+| Tuta | Encrypted email | Extra 12 months free on Revolutionary or Legend | None | Nov 30 |
+| NordVPN | VPN | Up to 78% off 2-year plans plus 3 months (from about $2.99–$3.49 per month) | None | Dec 9 |
+| Incogni | Data broker removal | 58% off annual plans | `BFCM26` | Dec 4 |
+| DeleteMe | Data broker removal | 20% off privacy plans, new members | `BFCM2026` | Nov 30 |
+| EnigmaIS myOwnCA | Self-hosted PKI | 80% off Starter Pack | `BLACK-FRIDAY-2026-STARTER-80` | Nov 22 – Dec 2 |
+| Yubico | Hardware security keys | 15% off when you mix and match up to four keys | None | Nov 19 – Nov 30 |
 
 ## Hardware and home lab
 
@@ -179,7 +211,9 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | [UniFi](https://store.ui.com/us/en/tags/black-friday) | Varies | Nov 30 |
 | [Geekom](https://www.geekompc.com/black-friday/) | Varies daily | Dec 1 |
 | [Back Market](https://www.backmarket.com/en-us/e/black-friday) | Refurbished hardware, varies daily | Dec 1 |
-| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) | Security keys | Nov 19 – Nov 30 |
+| [Yubico](https://www.yubico.com/us/store/2026/black-friday-sale/) | 15% off mix-and-match, up to four security keys | Nov 19 – Nov 30 |
+| [Zima](https://shop.zimaspace.com/) | $15–$60 off ZimaBoard and ZimaCube | Nov 30 |
+| [ORICO](https://oricotechs.com/pages/black-friday-2026) | 15%–20% off NAS and DAS enclosures | Dec 7 |
 
 ## Books
 
@@ -189,25 +223,23 @@ Last updated: 2026-11-20. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 
 ## Watchlist
 
+No 2026 offer announced yet as of Nov 23. Coupon-aggregator codes for these vendors are unverified.
+
 | Vendor | 2025 offer |
 |---|---|
 | Hack The Box | 25% off Pro Labs annual until Nov 30, then 25% off Academy Silver and Gold annual in December |
-| TryHackMe | 40% off annual with `BLACKFRIDAY40` |
-| INE Security | 50% off certifications, up to $749 off bundles (Nov 21 – Dec 4) |
-| Altered Security | 20%–30% off courses and bootcamps |
-| Centri (formerly Security Blue Team) | 20% off BTL1, 50% off BTL2 |
-| LetsDefend | 50% off annual with `BLCKFRDY` |
-| SEKTOR7 | 25% off with `BF25` |
-| 8kSec | 15% off with `blackfriday15` |
-| 7ASecurity | 50% off with `BFCM50` |
-| ISC2 | 10% off self-paced training (Nov 28 – Dec 5) |
-| Linux Foundation | Up to 65% off in Cyber Week |
+| TryHackMe | 40% off annual with `BLACKFRIDAY40`. For 2026, only the free Advent of Cyber event (Dec 1 – Dec 24) is announced. |
+| Altered Security | 20%–25% off courses and bootcamps, 25% off multi-course purchases (Nov 17 – Dec 17, 2025) |
+| LetsDefend | 50% off annual with `BLCKFRDY`. Annual plans reportedly stopped selling on Oct 15, 2026 after the Hack The Box acquisition. |
 | Shodan | $5 lifetime membership sale each year |
-| CompTIA, SANS/GIAC, EC-Council, ISACA, Zero-Point Security, PortSwigger | No 2026 offer announced |
+| CompTIA, SANS training, EC-Council, ISACA, PortSwigger | No 2026 offer announced |
 
 ## Deal trackers
 
 - [v3nomtech/infosec-cert-black-friday-2026](https://github.com/v3nomtech/infosec-cert-black-friday-2026)
+- [six2dez/infosec-cert-black-friday-2026](https://github.com/six2dez/infosec-cert-black-friday-2026)
+- [ps-lo/InfoSec-and-Tech-Black-Friday](https://github.com/ps-lo/InfoSec-and-Tech-Black-Friday)
+- [techiescamp/black-friday-deals](https://github.com/techiescamp/black-friday-deals) (DevOps and Kubernetes certifications)
 - [akevdev/InfoSec-and-Tech-Black-Friday](https://github.com/akevdev/InfoSec-and-Tech-Black-Friday)
 - [0x90n/InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday)
 
