@@ -92,6 +92,7 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | KodeKloud | DevOps, cloud, Kubernetes courses, labs, playgrounds (annual plans) | Standard 21% off; Pro 45% + 5% bonus; AI 50% + 5% bonus | Automatic | Nov 30, 11:59 PM IST | [kodekloud.com](https://kodekloud.com/pricing) |
 | Cybr | Cybr Premium: all courses, hands-on labs, practice exams, learning paths. Price is kept while you stay subscribed. Free OWASP LLM Top 10 labs released Nov 23 – Nov 30. | 40% off Cybr Premium, $140 per year | Automatic | Nov 27, 8:00 PM MT | [cybr.com](https://cybr.com/black-friday/) |
 | ExamPro | All courses (cloud, security and IT certification prep) | 75% off | `bf2026` | Not published | [exampro.co](https://www.exampro.co/) |
+| Master.dev | Courses | Discount not published | `reconnect2026` | Not published | [master.dev](https://master.dev/) |
 | HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR. Trackers also report 20% off courses and 15% off labs and exams (not on vendor site). | Automatic | Nov 30 (unconfirmed) | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
 | VantagePoint | Hacking labs and certifications | 70% off | Automatic | Dec 15 | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com/) |
 | RedTeamLeaders | Hacking labs and certifications, prices in BRL | 50% off | `BLACKFRIDAY50` | Not published | [courses.redteamleaders.com](https://courses.redteamleaders.com/catalog) |
