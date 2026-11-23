@@ -7,9 +7,9 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | Date | What happens |
 |---|---|
 | Nov 20 | INE sale starts |
-| Nov 23 | OnlySecurity, KSEC Labs, Hexordia start |
+| Nov 23 | OnlySecurity, KSEC Labs, Hexordia, Cybr start |
 | Nov 24 | GIAC sale reported to start |
-| Nov 27 | White Knight Labs and Centri start |
+| Nov 27 | White Knight Labs and Centri start. Cybr ends 8:00 PM MT. |
 | Nov 30 | Cyber Monday. CSA 24-hour 50% sale. Most deals below end. |
 | Dec 1 | INE, ISC2, GIAC end |
 | Dec 4 | Centri and 8kSec end |
@@ -90,6 +90,7 @@ Last updated: 2026-11-23. Black Friday is Nov 27, 2026. Cyber Monday is Nov 30, 
 | LabEx Pro | Linux, DevOps, security labs | 30% off 1-year; 50% off 2-year | `2026BF30` / `2026BF50` | Dec 7 | [labex.io](https://labex.io/pricing) |
 | Pluralsight | Annual subscription: security, cloud, IT, software courses and labs. `COMEBACK60` is likely for returning subscribers. | About 50% off (`SAVEPS50`); about 60% off (`COMEBACK60`) | `SAVEPS50` / `COMEBACK60` | Not published | [pluralsight.com](https://www.pluralsight.com/pricing) |
 | KodeKloud | DevOps, cloud, Kubernetes courses, labs, playgrounds (annual plans) | Standard 21% off; Pro 45% + 5% bonus; AI 50% + 5% bonus | Automatic | Nov 30, 11:59 PM IST | [kodekloud.com](https://kodekloud.com/pricing) |
+| Cybr | Cybr Premium: all courses, hands-on labs, practice exams, learning paths. Price is kept while you stay subscribed. Free OWASP LLM Top 10 labs released Nov 23 – Nov 30. | Black Friday price (amount not published) | Automatic | Nov 27, 8:00 PM MT | [cybr.com](https://cybr.com/) |
 | HackTricks Training | Cloud red team bundles (AWS, GCP, Azure) | Extra 10% off bundles, prices in EUR. Trackers also report 20% off courses and 15% off labs and exams (not on vendor site). | Automatic | Nov 30 (unconfirmed) | [hacktricks-training.com](https://hacktricks-training.com/bundles/) |
 | VantagePoint | Hacking labs and certifications | 70% off | Automatic | Dec 15 | [vantagepoint.enciphers.com](https://vantagepoint.enciphers.com/) |
 | RedTeamLeaders | Hacking labs and certifications, prices in BRL | 50% off | `BLACKFRIDAY50` | Not published | [courses.redteamleaders.com](https://courses.redteamleaders.com/catalog) |
